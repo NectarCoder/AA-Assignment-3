@@ -1,4 +1,4 @@
-Advanced Algorithms Assignment 3
+# Advanced Algorithms Assignment 3
 
 Assignment 3 submission work for CS 6045/W01 - Advanced Algorithms.  
 
