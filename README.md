@@ -9,15 +9,18 @@ Assignment 3 submission work for CS 6045/W01 - Advanced Algorithms.
 
 ## Run Program
 
-(todo)
-
 Ensure Python 3.12 or higher is installed.  
 
-Open a terminal window and change directories to this project. `Skyline.py` is the main Skyline Problem script. Enter the following command:  
-`python .\Skyline.py`  
+Open a terminal window and change directories to this project. `main.py` is the main Levenshtein script. Enter the following command:  
+`python .\main.py`  
 
-Input files under the `InputsOutputs` folder will be used to perform the skyline generation.  
-Outputs for the inputs will be displayed in the console, and also saved to the `InputsOutputs` folder.
+Input file under the `InputsOutputs` folder will be used to find the Levenshtein differences.  
+Output for the inputs will be displayed in the console, and also saved to the `InputsOutputs` folder as `Output.txt`.
 
 To run the test cases, run the following command:
-`python .\UnitTests\test_Skyline.py`
+`python .\tests.py`
+
+## Bellman Equation  
+
+The following image shows the Bellman Equation for this algorithm based on the completed code:  
+![bellman-equation.jpg](bellman-equation.jpg)

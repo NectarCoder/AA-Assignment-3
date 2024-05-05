@@ -1,0 +1,11 @@
+word_11,word_12
+word_21,word_22
+kitten,sitting
+book,back
+algorithm,logarithm
+hell0,hell0
+apple,snapple
+houses,mouse
+sun,moon
+asdf4321,xyzs4321
+sameword,sameword
